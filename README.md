@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HailMaws
-- 👀 I’m interested in Tech
+- 👀 I’m interested in Tech and Data Analytics
 - 🌱 I’m currently learning how to program
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
