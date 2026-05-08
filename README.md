@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HailMaws
-- 👀 I’m interested in Tech and Data Analytics
-- 🌱 I’m currently learning how to program
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning how to become a Cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
